@@ -2,7 +2,7 @@
 
 # How to Run the Project
 
-In order to run the project just download the data from above mentioned source then run any file.
+In order to run the project just download the data from above mentioned source then run any file
 
 # Data Source: https://www.kaggle.com/dalpozz/creditcardfraud/data
 
