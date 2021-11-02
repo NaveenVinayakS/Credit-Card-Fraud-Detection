@@ -1,6 +1,6 @@
 # Credit-Card-Fraud-Detection
 
-# How to Run the Project
+# How to Run the Project.
 
 In order to run the project just download the data from above mentioned source then run any file
 
